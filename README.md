@@ -1,0 +1,1 @@
+coba .net c#, belum menguasai report viewer, coba mengulik di forum, ternyata memang visual studio 2022 kurang kompatibel dengan mysql, menjadi salah satu hambatan. Mencoba ms server akan tetapi dikarenakan aplikasinya yang terlalu berat, jadi nggk berani coba buka bersamaan sama .net.
