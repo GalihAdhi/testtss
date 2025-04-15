@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet2" msprop:Generator_DataSetName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="KaryawanTable" msprop:Generator_RowEvHandlerName="KaryawanTableRowChangeEventHandler" msprop:Generator_RowDeletedName="KaryawanTableRowDeleted" msprop:Generator_RowDeletingName="KaryawanTableRowDeleting" msprop:Generator_RowEvArgName="KaryawanTableRowChangeEvent" msprop:Generator_TablePropName="KaryawanTable" msprop:Generator_RowChangedName="KaryawanTableRowChanged" msprop:Generator_RowChangingName="KaryawanTableRowChanging" msprop:Generator_TableClassName="KaryawanTableDataTable" msprop:Generator_RowClassName="KaryawanTableRow" msprop:Generator_TableVarName="tableKaryawanTable" msprop:Generator_UserTableName="KaryawanTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NIK" msprop:Generator_ColumnPropNameInRow="NIK" msprop:Generator_ColumnPropNameInTable="NIKColumn" msprop:Generator_ColumnVarNameInTable="columnNIK" msprop:Generator_UserColumnName="NIK" type="xs:int" minOccurs="0" />
+              <xs:element name="Nama" msprop:Generator_ColumnPropNameInRow="Nama" msprop:Generator_ColumnPropNameInTable="NamaColumn" msprop:Generator_ColumnVarNameInTable="columnNama" msprop:Generator_UserColumnName="Nama" type="xs:string" minOccurs="0" />
+              <xs:element name="Alamat" msprop:Generator_ColumnPropNameInRow="Alamat" msprop:Generator_ColumnPropNameInTable="AlamatColumn" msprop:Generator_ColumnVarNameInTable="columnAlamat" msprop:Generator_UserColumnName="Alamat" type="xs:string" minOccurs="0" />
+              <xs:element name="Departemen" msprop:Generator_ColumnPropNameInRow="Departemen" msprop:Generator_ColumnPropNameInTable="DepartemenColumn" msprop:Generator_ColumnVarNameInTable="columnDepartemen" msprop:Generator_UserColumnName="Departemen" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|e:\\tugas cooleah\\y r we still here\\tssnew\\tssnew\\tssnew\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\dataset1.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\dataset1.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\dataset2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\dataset2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssnew\\dataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{4545C8CB-13A4-4125-AA2C-CD038FF3D1D6}|tssNEW\\tssNEW.csproj|solutionrelative:tssnew\\dataset2.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Form1.cs",
+              "RelativeDocumentMoniker": "tssNEW\\Form1.cs",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Form1.cs",
+              "RelativeToolTip": "tssNEW\\Form1.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwNwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T15:46:34.496Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataSet2.xsd",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet2.xsd",
+              "RelativeDocumentMoniker": "tssNEW\\DataSet2.xsd",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet2.xsd",
+              "RelativeToolTip": "tssNEW\\DataSet2.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-15T18:48:51.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Class1.cs",
+              "RelativeDocumentMoniker": "tssNEW\\Class1.cs",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Class1.cs",
+              "RelativeToolTip": "tssNEW\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:39:40.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report2.rdlc [Design]",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Report2.rdlc",
+              "RelativeDocumentMoniker": "tssNEW\\Report2.rdlc",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Report2.rdlc [Design]",
+              "RelativeToolTip": "tssNEW\\Report2.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-15T18:31:27.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Form1.cs",
+              "RelativeDocumentMoniker": "tssNEW\\Form1.cs",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Form1.cs [Design]",
+              "RelativeToolTip": "tssNEW\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:30:06.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSet1.Designer.cs",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "tssNEW\\DataSet1.Designer.cs",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet1.Designer.cs",
+              "RelativeToolTip": "tssNEW\\DataSet1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:43:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSet1.xsc",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet1.xsc",
+              "RelativeDocumentMoniker": "tssNEW\\DataSet1.xsc",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet1.xsc",
+              "RelativeToolTip": "tssNEW\\DataSet1.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-04-15T19:42:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "tssNEW\\DataSet1.xsd",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet1.xsd",
+              "RelativeToolTip": "tssNEW\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-15T19:43:09.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tssNEW\\Form1.Designer.cs",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Form1.Designer.cs",
+              "RelativeToolTip": "tssNEW\\Form1.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAArwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:06:48.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataSet2.cs",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet2.cs",
+              "RelativeDocumentMoniker": "tssNEW\\DataSet2.cs",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\DataSet2.cs",
+              "RelativeToolTip": "tssNEW\\DataSet2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:48:53.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report3.rdlc [Design]",
+              "DocumentMoniker": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Report3.rdlc",
+              "RelativeDocumentMoniker": "tssNEW\\Report3.rdlc",
+              "ToolTip": "E:\\TUGAS COOLEAH\\Y R WE STILL HERE\\tssnew\\tssNEW\\tssNEW\\Report3.rdlc [Design]",
+              "RelativeToolTip": "tssNEW\\Report3.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-15T19:36:53.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
